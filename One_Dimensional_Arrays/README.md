@@ -58,6 +58,15 @@ A mini-project that analyzes students’ grades:
 
 This project combines array iteration, conditionals, counters, and formatted console output — making it the most “project-like” of the collection.
 
+### 12_Seat_Booking_System  
+A mini-project that simulates a simple seat booking system:  
+- Displays available seats in each row.  
+- Allows booking seats in a chosen row.  
+- Prevents booking more seats than available.  
+- Ends with a message when all seats are fully booked.  
+
+This project practices arrays, loops, conditions, and console interaction.  
+
 ## License
 
 This project is provided for educational purposes without any warranty.  
