@@ -35,6 +35,16 @@ Each project includes a specific task that helps improve skills in working with 
 ### 9. SalesAnalyzer
 **Task:** Given a sales table (rows represent stores, columns represent months), find the store with the highest total revenue.
 
+### 10_House_Temperature_Map
+
+A simple console project that simulates temperature monitoring in a 5×5 house grid.  
+- Generates random temperatures (20–40 °C) for each zone.  
+- Calculates the **maximum**, **minimum**, and **average** temperature.  
+- Highlights all zones **above average** with an asterisk `*`.  
+- Displays data in a clean, aligned table format.
+
+This project reinforces work with **two-dimensional arrays**, **loops**, and **conditional statements** in C#.
+
 ---
 
 ## License
